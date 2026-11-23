@@ -46,7 +46,7 @@ Help existing and new hosts optimize their listing strategy—evaluating **how c
 
 #### **Key Insights**
 * **Booking Policies & Seasonal Availability:** Listings enforcing **strict cancellation policies** command noticeably higher average nightly rates across both **2016** and **2017** (peaking around **$156–$161** under Instant Booking) compared to moderate and flexible policies.
-* **Property & Room Type Competition:** Across all major property categories (*House, Townhouse, Condominium, Apartment*), **Entire home/apt** listings command the highest rates—led by Houses (**$192.1** avg) and Townhouses (**$184.7** avg)—while **Apartments** represent the largest supply volume (**406,905** calendar entries).
+* **Property & Room Type Competition:** Across all major property categories (*House, Townhouse, Condominium, Apartment*), **Entire home/apt** listings command the highest rates led by Houses (**$192.1** avg) and Townhouses (**$184.7** avg)—while **Apartments** represent the largest supply volume (**406,905** calendar entries).
 * **Superhost vs. Regular Host Pricing Assessment:** *Superhosts* consistently achieve higher nightly averages within comparable review tiers (such as **$153.38** vs. **$120.23** in the *Great* review score group), demonstrating the pricing power of verified host reputation.
 
 ---
