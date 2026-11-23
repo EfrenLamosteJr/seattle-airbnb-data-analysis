@@ -23,7 +23,7 @@ This analysis uses the **Seattle Airbnb Open Data** workbook (`Airbnb_Seattle.xl
 ### 📊 Dashboard 1: Pricing, Supply & Annual Revenue
 🔗 **[View Interactive Dashboard 1 on Tableau Public](https://public.tableau.com/app/profile/efren.lamoste/viz/SeattleAirbnbPricingSupplyAnnualRevenue/Dashboard1)**
 
-![Seattle Airbnb Dashboard 1](./dashboard1)
+![Seattle Airbnb Dashboard 1](./dashboard1.png)
 
 #### **Purpose**
 Provide prospective Airbnb hosts and real estate investors with a clear market baseline—answering **how much properties charge by size and neighborhood**, **where market supply is concentrated**, and **how total revenue fluctuates across the calendar year**.
@@ -39,7 +39,7 @@ Provide prospective Airbnb hosts and real estate investors with a clear market b
 ### 📊 Dashboard 2: Host Performance, Booking Policies & Property Types
 🔗 **[View Interactive Dashboard 2 on Tableau Public](https://public.tableau.com/app/profile/efren.lamoste/viz/SeattleAirbnbHostPerformanceBookingPoliciesPropertyTypes/Dashboard2)**
 
-![Seattle Airbnb Dashboard 2](./dashboard2)
+![Seattle Airbnb Dashboard 2](./dashboard2.png)
 
 #### **Purpose**
 Help existing and new hosts optimize their listing strategy—evaluating **how cancellation and instant-booking policies affect pricing across seasons**, **which property/room configurations face the highest competition**, and **whether earning Superhost status translates into higher nightly rates**.
